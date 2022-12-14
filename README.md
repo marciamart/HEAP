@@ -1,4 +1,4 @@
-# VETOR ORDENADO
+# HEAP
 ## *Descrição:*
 Heap estática. Os elementos do vetor são adicionados cumprindo propriedades particulares da heap, ou seja, para todo i temos que 
 x[i] é menor que ou equivalente a x[2*i] e a x[2*i+1]. 
